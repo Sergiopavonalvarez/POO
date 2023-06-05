@@ -10,8 +10,8 @@ public class PruebaAlumno {
 		
 		
 		alumno1.mayusnombre();
-		alumno2.pedirapellido();
-		alumno3.pedirnotas();
+		alumno1.pedirapellido();
+		alumno1.pedirnotas();
 		
 		
 	}
