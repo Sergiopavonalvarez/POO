@@ -11,6 +11,7 @@ public class A {
 	}
 
 	public A(int atributoA) {
+		
 		this.atributoA = atributoA;
 	}
 	
